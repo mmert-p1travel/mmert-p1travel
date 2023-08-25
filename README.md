@@ -1,15 +1,13 @@
 # 👋 Hello, I'm [Murat Mert]
 
-![Banner or Avatar](url-to-image)
-
 ## 🌱 About Me
 
 I'm a **Software Engineer** based in **Istanbul**. I'm passionate about writing clean, efficient, and maintainable code, and love to solve challenging problems. When I'm not coding, you can find me reading, cycling, or sipping on a good cup of coffee.
 
-- 🔭 Currently working at **[P1Travel]**
-- 🎓 Graduated from **[Istanbul Yildiz technical University]**
+- 🔭 Currently working at **P1Travel**
+- 🎓 Graduated from **Istanbul Yildiz technical University**
 - 🌱 Learning more about **Cloud Architecture**, **Open Source**, and **Distrubuted Systems**
-- 👯 Looking to collaborate on **[Open Source projects]**
+- 👯 Looking to collaborate on **Open Source projects**
 
 ## 🛠️ Technologies & Tools
 
